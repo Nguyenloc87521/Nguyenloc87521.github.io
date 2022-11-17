@@ -13,7 +13,7 @@ body {
     height: 370px;
     width: 225px;
     margin: 100px auto;
-    background-color: antiquewhite;
+    background-color: white;
     margin-left: 450px;
     align-items: flex-end;
     
@@ -39,7 +39,7 @@ ul.four {
     margin-left: 225px;
     margin-top: 30px;
     line-height: 30px;
-    background-color: antiquewhite;
+    background-color: white;
     height: 370px;
     display: none;
     position: absolute;
@@ -63,7 +63,7 @@ ul.four  li {
     ul.six {
         width: 230px;
         margin: 100px;
-        background-color: antiquewhite;
+        background-color: white;
         position: absolute;
         margin-left: 230px;
     margin-top: 30px;
